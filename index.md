@@ -14,3 +14,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+<h1>Hello from the codespace!</h1>
